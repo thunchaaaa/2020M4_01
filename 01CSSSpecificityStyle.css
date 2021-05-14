@@ -1,0 +1,18 @@
+#div1 p {
+	color: green;
+}
+div #x1 {
+	color: red;
+}
+div p:first-child {
+	color: brown;
+}
+.x2 {
+	color: teal;
+}
+p #x2 {
+	color: purple;
+}
+div > span {
+	color: blue;
+}
